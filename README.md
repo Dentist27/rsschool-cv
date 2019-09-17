@@ -1,1 +1,1 @@
-# rsschool-cv
+[Resume link](https://dentist27.github.io/rsschool-cv/cv)
