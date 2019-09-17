@@ -23,3 +23,11 @@ function sort(arr) {
 }
 alert(sort(arr));
 ```
+6. The experience is starting now.
+7. Education:
+    * [Учебник JS](https://learn.javascript.ru/)
+    * [Хекслет: Алгоритмы → Графы](https://ru.hexlet.io/courses/js-algorithms/lessons/graphs/theory_unit)
+    * [Этот канал на Youtube](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw)
+    * [Хабр](https://habr.com)
+    * другое
+8. Spoke fluently in English, but not perfect. Absolutely sufficient for understanding the basic concepts of lectures of any subject. If the lectures are medical topics, then it is not difficult to understand the lecturer almost completely. In real life I do not use all the times of the English language. It is often difficult to translate musical compositions. Especially if it's rap artists. For example, the Rap God - Eminem.
